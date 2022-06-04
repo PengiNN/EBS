@@ -1,0 +1,2 @@
+# EBS
+EtupOS Boot Splash
